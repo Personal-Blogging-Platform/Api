@@ -2,7 +2,7 @@
 
 A robust, scalable, and secure RESTful API built to power a personal blogging platform. Designed with enterprise-grade system architecture, this backend emphasizes security, data validation, and clean separation of concerns.
 
-## ✨ Key Features & Unique Selling Points
+## ✨ Key Features
 * **Modern Architecture:** Built with Node.js, TypeScript (ES2022 Modules), and native subpath imports (`#/*`) for clean dependency resolution.
 * **Fail-Fast Configuration:** Strict runtime environment variable validation using **Zod**. If a critical secret is missing, the server refuses to boot, preventing downstream production errors.
 * **Advanced Security Layer:**
